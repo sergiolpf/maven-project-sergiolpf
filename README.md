@@ -8,3 +8,4 @@ This is my Maven project from mulseft`s **Advanced Development** class
 
 	`git remote add origin https://github.com/sergiolpf/maven-pproject.git`
 	
+	bla bla bla
